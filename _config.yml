@@ -1,7 +1,7 @@
 name: edd
 favicon: null
-layout_spectrum: 0.49531502090394497
-typography_spectrum: 0.5289830164983869
+layout_spectrum: 0.49422
+typography_spectrum: 0.50771
 title: "Edd's first Grid site"
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9275858183391392
+    - '#fffff3'
+    - '#645f66'
+    - '#9f9b98'
+    - '#c6c6c6'
+    - '#14181b'
+  brandStrength: 0.875
   lightness: 0.1933135858271271
   saturation: 0.19009372522123158
   rhythmicContrast: 0.08383217779919505
