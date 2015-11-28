@@ -2,6 +2,7 @@ name: edd
 favicon: null
 layout_spectrum: 0.49531502090394497
 typography_spectrum: 0.5289830164983869
+title: "Edd's first Grid site"
 cta:
   domain: null
   bucket: null
