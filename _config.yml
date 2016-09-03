@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.43834
 color:
   brandColors:
     - '#ffffff'
@@ -10,9 +10,10 @@ color:
   lightness: 0.1933135858271271
   rhythmicContrast: 0.08383217779919505
   saturation: 0.19009372522123158
-cta: {}
-layout_spectrum: 0.744243
-name: edd
 opengraph: {}
+layout_spectrum: 0.744243
+analytics: {}
+name: edd
+cta: {}
+title: Testing this out
 purpose: []
-typography_spectrum: 0.43834
